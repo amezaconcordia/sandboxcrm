@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "8253000000026004",
+      "name": "Sandbox",
+      "domain": {
+        "id": "10031612381",
+        "name": "sandbox-755070814.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "755070814",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
